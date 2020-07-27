@@ -2,7 +2,7 @@
 id: soluti-fullstack-developer
 title: Fullstack Developer
 ---
-# Soluti Certificação Digital
+# [Soluti Certificação Digital](https://www.soluti.com.br/)
 ```
 Contrato: CLT período integral
 Período: Jan de 2019 - Jan de 2020
@@ -28,6 +28,6 @@ App com a finalidade de efetuar a assinatura de documentos com certificados em n
  - VueJS
 #### Ferramentas
  - Github/gitflow
- - Redmine
+ - Jira
 #### Apps públicos
   - [Assine Online](https://play.google.com/store/apps/details?id=br.com.soluti.assine_online_app)
