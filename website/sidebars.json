@@ -10,12 +10,12 @@
   },
   "projects": {
     "Freelances": [
-      "toctal",
-      "licenciar",
-      "cortex",
-      "ver2us",
+      "tocbim",
       "ligdoc",
-      "eterapia"
+      "ver2us",
+      "eterapia",
+      "licenciar",
+      "cortex"
     ]
   },
   "certifications":{
